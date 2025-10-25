@@ -1,0 +1,12 @@
+{
+  "name": "parcial-docker-integrado",
+  "version": "1.0.0",
+  "description": "Servicio base Node.js para el segundo parcial de Implantación de Sistemas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
